@@ -66,4 +66,4 @@ Custom Adapter for list item binding and event handling.
 👨‍💻 Developer
 Shaik Mohammed Baharmoos
 🎓 B.E. Information Technology – Muffakham Jah College of Engineering & Technology
-📍 Hyderabad, India
+📍 Hyderabad, India.
