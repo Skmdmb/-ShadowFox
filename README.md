@@ -1,11 +1,10 @@
 📝 To-Do List App (Java | Android Studio)
-📌 Overview
 
+📌 Overview
 The To-Do List App is a simple, offline Android application developed in Java using Android Studio.
 It allows users to add, view, mark complete, delete, and sort tasks by priority — all stored locally using SharedPreferences, so the data persists even after app restarts.
 
 🚀 Features
-
 ✅ Add new tasks with a chosen priority (High, Medium, Low).
 ✅ Mark tasks as completed (with strike-through effect).
 ✅ Delete tasks instantly.
